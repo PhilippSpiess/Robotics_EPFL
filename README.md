@@ -23,3 +23,13 @@ In the second year of Bachelor, with three other students, we designed a « Tilt
 ## Electronics
 
 Infrared remote controller using in electronic components including uch as transistors, diodes, amplifiers, timers, resistors, capacitors, inductors, etc.
+
+
+## Labs
+
+- Haptics
+- Artificial Muscles
+- Control of the Micro Delta Direct Drive robot
+- Industrial SCARA Robot Adept
+- Application of Bayes filters to mobile robot localization
+- Programming and characterization of a modular lamprey robot
