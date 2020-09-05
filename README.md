@@ -15,7 +15,7 @@ two simulators in UNITY-3D and programed a rover and a quadcopter trajectory. I 
 
 During the last year of my Bachelor in microengineering, we programmed an Epuck robot in C++ to follow a sound source and avoid obstacles. The project involved sound processing using FFT, motor control with a PID controller, proximity sensor signal processing.
 
-## Conception de Mécanisme (mechanical design)
+## Conception de Mécanisme (Mechanical design)
 
 In the second year of Bachelor, with three other students, we designed a « Tilt chopping mechanism » which could comply for a real life case from the Stratospheric Observatory for Infrared Astronomy (SOFIA) of the Boeing 747SP aircraft operated and maintained by NASA. The project involved a mobility analysis, dimensions & materials choices, cinematic & dynamic analysis and the use of recent technologies like flexible guidances and every had to be in accordance with the 
 specifications.
