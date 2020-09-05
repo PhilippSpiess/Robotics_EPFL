@@ -1,2 +1,2 @@
-# Body_robot_control
-Semester project at LIS lab EPFL
+# Body-robot Control
+Semester project at LIS EPFL
