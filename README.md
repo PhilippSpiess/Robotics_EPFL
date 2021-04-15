@@ -1,10 +1,10 @@
 # Robotics
 
-Robotic projects I have been working on during my Master's at EPFL
+Below are the robotic projects I have been working on during my Master at EPFL.
 
 ## Electronics
 
-Infrared remote controller using in electronic components including uch as transistors, diodes, amplifiers, timers, resistors, capacitors, inductors, etc.
+Infrared remote controller using electronic components such as transistors, diodes, amplifiers, timers, resistors, capacitors and inductors to allow detection within a 3 meter range.
 
 ## Conception de Mécanisme (Mechanical design)
 
@@ -12,11 +12,11 @@ In the second year of Bachelor, with three other students, we designed a « Tilt
 
 ## Microrobotics
 
-Epuck robot programmed in C/C++ to follow a sound source and avoid obstacles. The project involved sound processing using FFT, motor control with a PID controller, proximity sensor signal processing.
+Epuck robot programmed in C++ to follow a sound source and avoid obstacles. The project involved sound processing using FFT, motor control with a PID controller, proximity sensor signal processing. 
 
 ## Model Predictive Control
 
-In a team of three, we implemented model predictive control in Matlab to simulate a quadcopter with non-linear dynamics tracking a references and successfully rejecting noise.
+In a team of three, we implemented model predictive control in Matlab to simulate a quadcopter with non-linear dynamics tracking a references and successfully rejecting noise. The first part of the project involved modelling quadcopter dynamics. Then the invariant sets were computed to optimize the control using MPC. 
 
 ## Labs
 
