@@ -1,6 +1,6 @@
 # Robotics
 
-Below are the robotic projects I have been working on during my Master at EPFL.
+Robotic projects I have been working on during my Master at EPFL.
 
 ## Electronics
 
